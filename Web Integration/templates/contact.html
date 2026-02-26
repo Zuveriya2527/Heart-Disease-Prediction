@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="contact-section">
+
+    <!-- LEFT : CONTACT FORM -->
+    <div class="contact-form">
+        <h1>Contact Us</h1>
+        <p>
+            Have questions or feedback about the Heart Disease Analysis project?
+            Feel free to reach out.
+        </p>
+
+        <form>
+            <label>Name</label>
+            <input type="text" placeholder="Enter your name">
+
+            <label>Email</label>
+            <input type="email" placeholder="Enter your email">
+
+            <label>Message</label>
+            <textarea placeholder="Your message"></textarea>
+
+            <button type="submit">Send Message</button>
+        </form>
+    </div>
+
+    <!-- RIGHT : IMAGE -->
+    <div class="contact-image">
+        <img src="{{ url_for('static', filename='contact.webp') }}" alt="Contact Heart">
+    </div>
+
+</div>
+
+{% endblock %}
+
+
