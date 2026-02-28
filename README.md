@@ -58,15 +58,6 @@ This project demonstrates practical implementation of:
 ## 📂 Project Structure
 
 <img width="217" height="367" alt="image" src="https://github.com/user-attachments/assets/74595f5c-ff38-4e40-ab31-85e0082e136b" />
-Web Integration/
-│
-├── app.py
-├── models/
-│ └── risk_model.py
-├── static/
-├── templates/
-├── requirements.txt
-└── Procfile
 
 
 ---
@@ -122,10 +113,10 @@ Risk Categories:
 
 ## 👩‍💻 Developed By
 
-Pathan Zuveriya Tabassum 
-Krosuru Chandra Kiran
-Mudamanchu Ashok
-Lingampalli Hemanth Kumar
+1.Pathan Zuveriya Tabassum 
+2.Krosuru Chandra Kiran
+3.Mudamanchu Ashok
+4.Lingampalli Hemanth Kumar
 Html| Css | Python | Flask
 
 ---
