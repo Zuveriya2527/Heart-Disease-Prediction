@@ -89,6 +89,9 @@ Risk Categories:
 
 ---
 
+🔗 **Demo Video Link:**  
+https://drive.google.com/file/d/1DswfpczM6Pevgcg0N5g31_E6GC7S5zqf/view?usp=sharing
+
 ## 📸 Application Preview
 
 <img width="1319" height="624" alt="image" src="https://github.com/user-attachments/assets/8b2f9a48-2c4d-4824-b8d8-4059e9ff157f" />
