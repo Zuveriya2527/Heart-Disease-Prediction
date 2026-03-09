@@ -529,3 +529,78 @@ body {
     border-radius: 14px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.12);
 }
+
+/* Page Background */
+body{
+    background: linear-gradient(135deg,#4e73df,#1cc88a);
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    padding:0;
+}
+
+/* Main Container */
+.container{
+    width:40%;              /* reduced form width */
+    margin:auto;
+    background:white;
+    padding:35px;
+    margin-top:40px;
+    border-radius:10px;
+    box-shadow:0px 5px 20px rgba(0,0,0,0.2);
+}
+
+/* Title */
+h2{
+    text-align:center;
+    color:#333;
+}
+
+/* Labels */
+label{
+    font-weight:bold;
+    color:#444;
+}
+
+/* Equal Input Boxes */
+input, select{
+    width:85%;              /* reduced length */
+    height:40px;            /* equal height */
+    padding:8px;
+    margin-top:5px;
+    margin-bottom:15px;
+    border-radius:8px;
+    border:1px solid #ccc;
+    font-size:15px;
+    display:block;
+}
+
+/* Focus Effect */
+input:focus, select:focus{
+    border-color:#4e73df;
+    outline:none;
+    box-shadow:0 0 5px rgba(78,115,223,0.5);
+}
+
+/* Predict Button */
+button{
+    width:85%;              /* same width as inputs */
+    height:42px;
+    background:#4e73df;
+    color:white;
+    border:none;
+    border-radius:8px;
+    font-size:16px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#2e59d9;
+}
+
+/* Prediction Result */
+.result{
+    margin-top:20px;
+    font-size:20px;
+    text-align:center;
+    font-weight:bold;
+}
