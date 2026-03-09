@@ -103,16 +103,70 @@ https://drive.google.com/file/d/1DswfpczM6Pevgcg0N5g31_E6GC7S5zqf/view?usp=shari
 
 ---
 
-## 🔥 Future Improvements
+##🟢EXAMPLES
+Example 1 — Low Risk
 
-- Machine Learning Integration
-- Real Medical Dataset Training
-- PDF Report Generation
-- User Login System
-- Database Integration
-- Real-time Data Visualization
+Use these values:
 
----
+Age: 25
+BMI: 21
+Blood Pressure: 110
+Cholesterol: 170
+Smoking: No
+Diabetes: No
+Physical Activity: High
+
+Expected result:
+
+Low Risk of Heart Disease
+
+Reason:
+Young age, healthy BMI, good activity, no smoking.
+
+🟡 Example 2 — Moderate Risk
+Age: 45
+BMI: 26
+Blood Pressure: 130
+Cholesterol: 210
+Smoking: No
+Diabetes: No
+Physical Activity: Medium
+
+Expected result:
+
+Moderate Risk
+
+Reason:
+Middle age + slightly higher cholesterol.
+
+🔴 Example 3 — High Risk
+Age: 60
+BMI: 32
+Blood Pressure: 150
+Cholesterol: 260
+Smoking: Yes
+Diabetes: Yes
+Physical Activity: Low
+
+Expected result:
+
+High Risk of Heart Disease
+
+Reason:
+Multiple strong risk factors.
+
+🧪 Example 4 — Another High Risk Test
+Age: 55
+BMI: 30
+Blood Pressure: 145
+Cholesterol: 240
+Smoking: Yes
+Diabetes: No
+Physical Activity: Low
+
+Expected:
+
+High Risk
 
 ## 👩‍💻 Developed By
 
